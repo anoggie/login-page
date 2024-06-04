@@ -23,10 +23,3 @@ Clone the project
 ```bash
   git clone https://github.com/anoggie/login-page.git
 ```
-
-Start the server
-
-```bash
-  npm run start
-```
-
