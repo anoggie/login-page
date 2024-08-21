@@ -14,12 +14,3 @@ Simple and responsive login screen made with HTML and CSS, which meets the resol
 ## Mobile View
 
   ![image](https://github.com/anoggie/login-page/assets/121582919/1989c4ca-8923-4414-ae04-e40298c117bc)
-
-
-## Running Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/anoggie/login-page.git
-```
